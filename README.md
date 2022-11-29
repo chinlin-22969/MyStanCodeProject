@@ -11,7 +11,7 @@ This repository holds my programmimg projects done during my first python lesson
   - recursive function
 - Breakout Game(https://youtu.be/69E8k8XyPDs)
   - animation & game designing
-- Hangman Game(https://youtu.be/TCcZ1XPouns)
+- Hangman Game(https://youtu.be/A5QTMwywvzU)
   - python semantics & syntax
 - My Painting
   - image processing
